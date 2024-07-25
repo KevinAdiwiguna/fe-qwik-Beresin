@@ -1,6 +1,6 @@
 ---
 
-# Bersihin
+# Beresin
 
 Bersihin is a user-friendly web application built with the Qwik JavaScript framework, designed to simplify the process of ordering home cleaning services. Whether you need a one-time deep clean or regular housekeeping, Bersihin connects you with professional cleaners to keep your home spotless.
 
