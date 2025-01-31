@@ -6,14 +6,14 @@ import { Button } from "~/components/atom/button";
 import { Accordion } from "~/components/molecule/accordion";
 
 // Images 
-import Star from "~/media/image/star.png?jsx"
-import Image1 from "~/media/image/image1.png?jsx"
-import Image2 from "~/media/image/image2.png?jsx"
-import Carpet from '~/media/image/carpet.png?jsx'
-import Bed from '~/media/image/bed.png?jsx'
-import Sofa from '~/media/image/sofa.png?jsx'
-import Toilet from '~/media/image/toilet.png?jsx'
-import CleaningService from "~/media/image/cleaning.png?jsx"
+import Star from "/image/star.png?jsx"
+import Image1 from "/image/image1.png?jsx"
+import Image2 from "/image/image2.png?jsx"
+import Carpet from '/image/carpet.png?jsx'
+import Bed from '/image/bed.png?jsx'
+import Sofa from '/image/sofa.png?jsx'
+import Toilet from '/image/toilet.png?jsx'
+import CleaningService from "/image/cleaning.png?jsx"
 
 // Constants
 // import { SERVICES } from "~/constant/services";

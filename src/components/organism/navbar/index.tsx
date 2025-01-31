@@ -4,7 +4,7 @@ import { Link } from "@builder.io/qwik-city";
 // Constants
 import { LINK } from "~/constant/link";
 // Image
-import Logo from '~/media/image/logo.png?jsx'
+import Logo from '/image/logo.png?jsx'
 // Components
 import { Button } from "~/components/atom/button";
 // Hooks
