@@ -4,7 +4,7 @@ import { LINK } from "~/constant/link";
 
 
 // Image
-import Logo from "/image/logo.png?jsx"
+import Logo from "~/media/image/logo.png?jsx"
 
 export const Footer = component$(() => {
     return (

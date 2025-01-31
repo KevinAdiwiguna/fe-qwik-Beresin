@@ -1,7 +1,7 @@
-import Carpet from '/image/carpet.png?jsx'
-import Bed from '/image/bed.png?jsx'
-import Sofa from '/image/sofa.png?jsx'
-import Toilet from '/image/toilet.png?jsx'
+import Carpet from '~/media/image/carpet.png?jsx'
+import Bed from '~/media/image/bed.png?jsx'
+import Sofa from '~/media/image/sofa.png?jsx'
+import Toilet from '~/media/image/toilet.png?jsx'
 
 
 
